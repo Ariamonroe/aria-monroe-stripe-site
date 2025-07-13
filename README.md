@@ -16,10 +16,10 @@ Aria Monroe is an AI companion that provides emotional and conversational suppor
 
 ## 🌐 Live Site
 Once hosted on GitHub Pages:  
-👉 https://github.com/Ariamonroe/aria-monroe-stripe-site(#)  
+👉 https://github.com/Ariamonroe/aria-monroe-stripe-site  
 
 ---
 
 ## 📬 Contact
-Email: **iamsiennavale@gmail.com**
+Email: **ariamonroe.bot@gmail.com**
 
